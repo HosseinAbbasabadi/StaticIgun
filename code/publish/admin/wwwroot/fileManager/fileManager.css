@@ -1,0 +1,17 @@
+﻿.file-item {
+    cursor: pointer;
+    transition: 0.3s;
+    padding-left: 0;
+    border: 1px solid #ccc;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.file-item:hover {
+    -webkit-box-shadow: 0px 0px 10px 3px #c7c7c7;
+    -webkit-box-shadow: 0px 0px 10px 3px rgba(199,199,199,1);
+    -moz-box-shadow: 0px 0px 10px 3px #c7c7c7;
+    -moz-box-shadow: 0px 0px 10px 3px rgba(199,199,199,1);
+    box-shadow: 0px 0px 10px 3px #c7c7c7;
+    box-shadow: 0px 0px 10px 3px rgba(199,199,199,1);
+}
